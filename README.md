@@ -3,6 +3,12 @@
 
 ### [Live Site](http://2020covid19tracker.netlify.app/)
 
+Faster COVID19 Tracker . 
+Shows Global statistics, 
+Country Wise Statistics , 
+Automatic Push services. Which is update daily basis.
+Graph Updates Automatically once pushed.
+
 API used: https://covid19.mathdro.id/api
 
 Setup:
