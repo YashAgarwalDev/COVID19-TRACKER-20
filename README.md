@@ -14,4 +14,4 @@ API used: https://covid19.mathdro.id/api
 Setup:
 - run ```npm i && npm start```
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b6e4a2da-7f96-45e3-85b7-bcb1f68aa4a1/deploy-status)](https://app.netlify.com/sites/2020covid19tracker/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2960941b-4992-41ad-8be2-e071ca322652/deploy-status)](https://app.netlify.com/sites/covidtrackersite/deploys)
