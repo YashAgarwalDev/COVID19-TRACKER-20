@@ -15,3 +15,6 @@ Setup:
 - run ```npm i && npm start```
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2960941b-4992-41ad-8be2-e071ca322652/deploy-status)](https://app.netlify.com/sites/covidtrackersite/deploys)
+
+
+- This Website is just made for educational purpose and only for learning new programming languages.
